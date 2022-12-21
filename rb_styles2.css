@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+/* HTML and Body styles */
+
+body {
+   background-image: url(rb_background.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   font-family: Verdana, Geneva, sans-serif;
+}
